@@ -1,4 +1,11 @@
 #EXTM3U
-#EXTINF:0,moose_na.mp4
-https://github.com/benmoose39/YouTube_to_m3u/blob/main/assets/moose_na.mp4?raw=true
-
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:13.533333,
+moose_na0.ts
+#EXTINF:6.766667,
+moose_na1.ts
+#EXTINF:9.766667,
+moose_na2.ts
+#EXT-X-ENDLIST
